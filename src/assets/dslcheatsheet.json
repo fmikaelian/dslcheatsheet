@@ -1,0 +1,146 @@
+[
+    {
+      "TOPIC": "Objective 🎯",
+      "DESCRIPTION": "What is the business issue to solve?"
+    },
+    {
+      "TOPIC": "Value 💸",
+      "DESCRIPTION": "How much business value will the project generate?"
+    },
+    {
+      "TOPIC": "Performance Metric 🎉",
+      "DESCRIPTION": "What is the best metric to assess if the project is a success?"
+    },
+    {
+      "TOPIC": "Performance Level 💯",
+      "DESCRIPTION": "What is the performance level to achieve?"
+    },
+    {
+      "TOPIC": "Deliverable 📦",
+      "DESCRIPTION": "What is the deliverable?"
+    },
+    {
+      "TOPIC": "Complexity 🧠",
+      "DESCRIPTION": "How complex is the problem from the technical perspective?"
+    },
+    {
+      "TOPIC": "Users 👩🏻‍💻",
+      "DESCRIPTION": "Who is going to use the deliverable?"
+    },
+    {
+      "TOPIC": "Usage 💼",
+      "DESCRIPTION": "How will they use it?"
+    },
+    {
+      "TOPIC": "Constraints 🚧",
+      "DESCRIPTION": "What are the operational constraints of the business?"
+    },
+    {
+      "TOPIC": "Costs 💰",
+      "DESCRIPTION": "What is the actual and future costs of the project?"
+    },
+    {
+      "TOPIC": "Sponsors 👔",
+      "DESCRIPTION": "Who is sponsoring the project?"
+    },
+    {
+      "TOPIC": "Budget Owner 🎖",
+      "DESCRIPTION": "Who is funding the development of this project?"
+    },
+    {
+      "TOPIC": "Decision Makers 🙋🏻‍♂️",
+      "DESCRIPTION": "Who has the final say on the project?"
+    },
+    {
+      "TOPIC": "Contributors 👥",
+      "DESCRIPTION": "Who is working operationally on the project?"
+    },
+    {
+      "TOPIC": "Roles 🐜",
+      "DESCRIPTION": "What will be the role of each contributor in the project?"
+    },
+    {
+      "TOPIC": "Rules 📜",
+      "DESCRIPTION": "What are the rules to apply during this project?"
+    },
+    {
+      "TOPIC": "Ethics 🕊",
+      "DESCRIPTION": "Does the project comply with the company ethics?"
+    },
+    {
+      "TOPIC": "Legal 🖋",
+      "DESCRIPTION": "Is the project compliant with the local and global regulations?"
+    },
+    {
+      "TOPIC": "Timeline 🗓",
+      "DESCRIPTION": "What is the project timeline, including key milestones?"
+    },
+    {
+      "TOPIC": "Documentation 📚",
+      "DESCRIPTION": "Is there any existing documentation or previous work related to this project ?"
+    },
+    {
+      "TOPIC": "Data availability 🛢",
+      "DESCRIPTION": "How to access the data now and in the future?"
+    },
+    {
+      "TOPIC": "Data size 📐",
+      "DESCRIPTION": "What is the total size of the data?"
+    },
+    {
+      "TOPIC": "Data sources 🌏",
+      "DESCRIPTION": "Where is the data stored?"
+    },
+    {
+      "TOPIC": "Data format 📀",
+      "DESCRIPTION": "What is the format of the data?"
+    },
+    {
+      "TOPIC": "Data accuracy 🔬",
+      "DESCRIPTION": "What is the quality of the data?"
+    },
+    {
+      "TOPIC": "Data dictionary 📖",
+      "DESCRIPTION": "Is there a description of the available datasets?"
+    },
+    {
+      "TOPIC": "Data Labelling 🔖",
+      "DESCRIPTION": "Does the project require data labelling?"
+    },
+    {
+      "TOPIC": "Model Evaluation 📈",
+      "DESCRIPTION": "What is the offline metric used to evaluate the model?"
+    },
+    {
+      "TOPIC": "Model Performance 🏆",
+      "DESCRIPTION": "What is the expected model performance based on that metric?"
+    },
+    {
+      "TOPIC": "Agile 🐙",
+      "DESCRIPTION": "Does the team know how to work together in agile mode?"
+    },
+    {
+      "TOPIC": "Development 💻",
+      "DESCRIPTION": "Is there a collaborative development environment available to everyone?"
+    },
+    {
+      "TOPIC": "Infrastructure ⚡️",
+      "DESCRIPTION": "Does the infrastructure has enough computing power, storage, and network bandwidth?"
+    },
+    {
+      "TOPIC": "Production 🚢",
+      "DESCRIPTION": "Do you have a clearly defined process to release the project in production?"
+    },
+    {
+      "TOPIC": "Maintenance 🛠",
+      "DESCRIPTION": "Who is going to do the maintenance after the release?"
+    },
+    {
+      "TOPIC": "Monitoring 🎧",
+      "DESCRIPTION": "Is there a monitoring system to measure and validate metrics after the release?"
+    },
+    {
+      "TOPIC": "Communication 🎤",
+      "DESCRIPTION": "What is the communication strategy around this project?"
+    }
+  ]
